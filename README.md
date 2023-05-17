@@ -37,8 +37,8 @@ Sistema para autenticar usuarios con Mysql y Java Swing
 * Java SE
 * Mysql Workbench :  [Ver repositorio: Script Sistema_Login](https://github.com/diego0o033/Script_Sistema_Login)
 * Librerias Java:
- * Swing
- * Util
- * JAR
- * MYSQL JDBC
- * JCalendar
+  * Swing
+  * Util
+  * JAR
+  * MYSQL JDBC
+  * JCalendar
