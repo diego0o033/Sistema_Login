@@ -1,7 +1,7 @@
 # Sistema_Login
 Sistema para autenticar usuarios con Mysql y Java Swing
 #### Descripción del repositorio
-- Es un proyecto realizado en el taller de programación java, dicho repositorio tiene como finalidad, autenticar a diferentes tipos de usuarios y de mostrar un menú, según el rol del usuario que ingresó al sistema.Este es un proyecto ** Open Source** por lo que puedes modificar y adaptar según lo necesites. 
+Es un proyecto realizado en el taller de programación java, dicho repositorio tiene como finalidad, autenticar a diferentes tipos de usuarios y de mostrar un menú, según el rol del usuario que ingresó al sistema.Este es un proyecto **Open Source** por lo que puedes modificar y adaptar según lo necesites. 
 
 ----
 #### ***A continuación se muestran capturas del Sistema_Login*** 
